@@ -13,4 +13,4 @@ A fine dining restaurant website built with HTML, CSS, and JavaScript.
 Open `index.html` in any browser — no server needed.
 
 ## Deployment
-https://atharva735.github.io/restaurant-website
+https://atharva735.github.io/restaurant-website/
